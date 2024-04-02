@@ -1,12 +1,12 @@
 import './App.css'
-import Square from './components/Square'
+import Board from './components/Board'
 
 function App() {
 
   return (
     <>
     <h1>Jogo da Velha</h1>
-      <Square/>
+      <Board/>
     </>
   )
 }
